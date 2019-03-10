@@ -196,8 +196,8 @@ h4 {
 
 #body .pubs .pub {
   background: #ededed ! important;
-  margin: 15px 0 15px 0;
-  padding: 5px 15px 5px 5px;
+  margin: 15px 15px 15px 15px;
+  padding: 5px 15px 5px 15px;
 }
 
 #body #ytplayer {
