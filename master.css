@@ -21,6 +21,10 @@ a:hover {
 	color:#790815;
 }
 
+li:not(:last-child) {
+    margin-bottom: 7px;
+}
+
 /* Opera Fix */
 body:before {
 	content:"";
