@@ -305,7 +305,7 @@ body.service .bmenu li#service a {
 }
 
 #head, #foot {
-	height: 6px;
+	height: 0px;
   background: #ededed;
   width: 880px;
   margin: 0 auto;
