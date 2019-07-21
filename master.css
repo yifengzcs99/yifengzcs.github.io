@@ -16,11 +16,16 @@ a {
 	color: #669933;
 }
 
+a:link {
+	text-decoration: none;
+	color:#790815;
+}
+/*
 a:hover {
 	text-decoration: underline;
 	color:#790815;
 }
-
+*/
 li:not(:last-child) {
     margin-bottom: 7px;
 }
