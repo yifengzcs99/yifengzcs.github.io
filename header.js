@@ -8,7 +8,7 @@ document.write('\
         Science</span><br/>\
         <span class="address">City University of Hong Kong</span><br/>\<br/>\
         <span class="address"><strong>Email:&nbsp;</strong>yifeng.zheng[at]my.cityu.edu.hk</span><br/>\
-        <span class="address"><a href="https://scholar.google.com/citations?user=QtAO6K0AAAAJ&hl=en">My Google Scholar Profile</a></span><br/> \
+        <span class="address"><a href="https://scholar.google.com/citations?user=QtAO6K0AAAAJ&hl=en">Google Scholar</a></span><br/> \
       </div>\
 \
       <div id="bmenu-container">\
