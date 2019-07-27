@@ -7,7 +7,7 @@ document.write('\
         <span class="address">Department of Computer\
         Science</span><br/>\
         <span class="address">City University of Hong Kong</span><br/>\<br/>\
-        <span class="address"><strong>Email:&nbsp;</strong>yifeng.zheng[at]my.cityu.edu.hk</span><br/>\
+        <span class="address"><strong>Email:&nbsp;</strong>yifeng.zheng[at]my.cityu.edu.hk</span><br/><br/>\
         <span class="address"><a href="https://scholar.google.com/citations?user=QtAO6K0AAAAJ&hl=en">Google Scholar</a></span><br/> \
       </div>\
 \
