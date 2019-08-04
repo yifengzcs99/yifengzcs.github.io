@@ -4,8 +4,8 @@ document.write('\
       <div id=title>\
         Yifeng ZHENG<br/>\
         <span>Research Fellow</span><br/>\
-        <span class="address"><a href="https://www.cs.cityu.edu.hk/" target="_blank">Department of Computer Science (CityU)</a></span><br/>\
-        <span class="address"><a href="https://www.cityu.edu.hk/" target="_blank">City University of Hong Kong (CityU)</a></span><br/>\<br/>\
+        <span class="address"><a href="https://www.cs.cityu.edu.hk/" target="_blank">Department of Computer Science</a></span><br/>\
+        <span class="address"><a href="https://www.cityu.edu.hk/" target="_blank">City University of Hong Kong</a></span><br/>\<br/>\
         <span class="address"><strong>Email:&nbsp;</strong>yifeng.zheng[at]my.cityu.edu.hk</span><br/><br/>\
         <span class="address"><a href="https://scholar.google.com/citations?user=QtAO6K0AAAAJ&hl=en">Google Scholar</a></span><br/> \
       </div>\
