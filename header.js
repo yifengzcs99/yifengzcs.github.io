@@ -3,7 +3,7 @@ document.write('\
       <img id="kyle" src="yifengz.jpg"><br>\
       <div id=title>\
         Yifeng ZHENG<br/>\
-        <span>PhD</span><br/>\
+        <span>Research Fellow</span><br/>\
         <span class="address">Department of Computer\
         Science</span><br/>\
         <span class="address">City University of Hong Kong</span><br/>\<br/>\
